@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "matrix0000oooo.aternos.me",
-    "port": 62664,
+    "port":62664,
     "version": "1.20.1",
     "try-creative": false
   },
